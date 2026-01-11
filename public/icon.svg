@@ -1,0 +1,15 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .background { fill: #7C3AED; }
+      .foreground { fill: white; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #7C3AED; }
+      .foreground { fill: white; }
+    }
+  </style>
+  <rect class="background" width="180" height="180" rx="40" />
+  <!-- Lightning bolt / Zap icon representing FigLab -->
+  <path class="foreground" d="M95 35L55 95H85L75 145L125 85H95L95 35Z" stroke-linejoin="round"/>
+</svg>
